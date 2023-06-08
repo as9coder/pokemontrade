@@ -1,0 +1,101 @@
+/* General styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #f44336;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  /* Main styles */
+  main {
+    padding: 20px;
+  }
+  
+  .banner {
+    text-align: center;
+  }
+  
+  .banner h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .banner p {
+    font-size: 16px;
+  }
+  
+  .content {
+    margin-top: 20px;
+  }
+  
+  .content h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .content p {
+    font-size: 16px;
+  }
+  
+  .cards {
+    text-align: center;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    width: 200px;
+    background-color: #e0e0e0;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .card img {
+    width: 120px;
+    height: 120px;
+    margin-bottom: 10px;
+  }
+  
+  .trading {
+    text-align: center;
+  }
+  
+  .trading form {
+    margin-top: 20px;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #f44336;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
